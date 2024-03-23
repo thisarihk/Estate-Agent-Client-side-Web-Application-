@@ -1,0 +1,298 @@
+{
+    "properties": [
+        {
+            "id": "prop1",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior",
+            "location": "Petts Wood Road, Petts Wood, Orpington",
+            "picture": [
+                "assets/images/prop1/img1.jpg",
+                "assets/images/prop1/img2.jpg",
+                "assets/images/prop1/img3.jpg",
+                "assets/images/prop1/img4.jpg",
+                "assets/images/prop1/img5.jpg",
+                "assets/images/prop1/img6.jpg",
+                "assets/images/prop1/img7.png"
+            ],
+            "url": "assets/images/floorplans/floorplan1.jpg",
+            "added": {
+                "month": "October",
+                "day": 12,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop2",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 399995,
+            "tenure": "Freehold",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+            "location": "Crofton Road Orpington BR6",
+            "picture": [
+                "assets/images/prop2/img1.jpg",
+                "assets/images/prop2/img2.jpg",
+                "assets/images/prop2/img3.jpg",
+                "assets/images/prop2/img4.jpg",
+                "assets/images/prop2/img5.jpg",
+                "assets/images/prop2/img6.jpg",
+                "assets/images/prop2/img7.jpg",
+                "assets/images/prop2/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan2.jpg",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "Flat",
+            "bedrooms": 4,
+            "price": 820000,
+            "tenure": "Freehold",
+            "description": "Spacious four-bedroom detached family home with a modern interior. Features include a large living room, separate dining area, fitted kitchen, and a private garden. Situated within a sought-after residential area, close to local amenities and good schools.",
+            "location": "Bromley Lane, Bromley BR1",
+            "picture": [
+                "assets/images/prop3/img1.jpg",
+                "assets/images/prop3/img2.jpg",
+                "assets/images/prop3/img3.jpg",
+                "assets/images/prop3/img4.jpg",
+                "assets/images/prop3/img5.jpg",
+                "assets/images/prop3/img6.jpg",
+                "assets/images/prop3/img7.jpg",
+                "assets/images/prop3/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan3.jpg",
+            "added": {
+                "month": "November",
+                "day": 5,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 250000,
+            "tenure": "Leasehold",
+            "description": "Modern one-bedroom apartment located in the heart of Croydon. Benefits from an open-plan kitchen/living area, balcony, and allocated parking. Ideal for first-time buyers or investors.",
+            "location": "High Street, Croydon CR0",
+            "picture": [
+                "assets/images/prop4/img1.jpg",
+                "assets/images/prop4/img2.jpg",
+                "assets/images/prop4/img3.jpg",
+                "assets/images/prop4/img4.jpg",
+                "assets/images/prop4/img5.jpg",
+                "assets/images/prop4/img6.jpg",
+                "assets/images/prop4/img7.jpg",
+                "assets/images/prop4/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan4.png",
+            "added": {
+                "month": "December",
+                "day": 1,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 1200000,
+            "tenure": "Freehold",
+            "description": "Luxurious five-bedroom detached house with spacious living areas, a private garden, and double garage. Located in a prestigious area with excellent transport links.",
+            "location": "Keston Park, Keston BR2",
+            "picture": [
+                "assets/images/prop5/img1.jpg",
+                "assets/images/prop5/img2.jpg",
+                "assets/images/prop5/img3.jpg",
+                "assets/images/prop5/img4.jpg",
+                "assets/images/prop5/img5.jpg",
+                "assets/images/prop5/img6.jpg",
+                "assets/images/prop5/img7.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan5.jpg",
+            "added": {
+                "month": "October",
+                "day": 20,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": 550000,
+            "tenure": "Leasehold",
+            "description": "Contemporary three-bedroom apartment offering stunning views over the city skyline. Features include a modern kitchen, en-suite bathrooms, and balcony. Close to local amenities.",
+            "location": "Southwark Street, London SE1",
+            "picture": [
+                "assets/images/prop6/img1.jpg",
+                "assets/images/prop6/img2.png",
+                "assets/images/prop6/img3.jpg",
+                "assets/images/prop6/img4.jpg",
+                "assets/images/prop6/img5.jpg",
+                "assets/images/prop6/img6.jpg",
+                "assets/images/prop6/img7.jpg",
+                "assets/images/prop6/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan6.png",
+            "added": {
+                "month": "August",
+                "day": 10,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 320000,
+            "tenure": "Freehold",
+            "description": "Charming two-bedroom cottage with character features, including exposed beams and a fireplace. Situated in a picturesque village location with easy access to countryside walks.",
+            "location": "High Street, Sevenoaks TN13",
+            "picture": [
+                "assets/images/prop7/img1.jpg",
+                "assets/images/prop7/img2.jpg",
+                "assets/images/prop7/img3.png",
+                "assets/images/prop7/img4.jpg",
+                "assets/images/prop7/img5.jpg",
+                "assets/images/prop7/img6.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan7.jpg",
+            "added": {
+                "month": "July",
+                "day": 15,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop8",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 180000,
+            "tenure": "Leasehold",
+            "description": "Compact one-bedroom apartment located in a convenient location with easy access to public transport. Ideal for commuters or as a buy-to-let investment.",
+            "location": "Station Road, Dartford DA1",
+            "picture": [
+                "assets/images/prop8/img1.jpg",
+                "assets/images/prop8/img2.jpg",
+                "assets/images/prop8/img3.jpg",
+                "assets/images/prop8/img4.jpg",
+                "assets/images/prop8/img5.jpg",
+                "assets/images/prop8/img6.jpg",
+                "assets/images/prop8/img7.jpg",
+                "assets/images/prop8/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan8.jpg",
+            "added": {
+                "month": "June",
+                "day": 3,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop9",
+            "type": "House",
+            "bedrooms": 6,
+            "price": 1500000,
+            "tenure": "Freehold",
+            "description": "Impressive six-bedroom mansion with landscaped gardens, swimming pool, and gym. Located in a prestigious area with excellent security features.",
+            "location": "Oakwood Avenue, Manchester M16",
+            "picture": [
+                "assets/images/prop9/img1.jpg",
+                "assets/images/prop9/img2.jpg",
+                "assets/images/prop9/img3.jpg",
+                "assets/images/prop9/img4.jpg",
+                "assets/images/prop9/img5.jpg",
+                "assets/images/prop9/img6.jpg",
+                "assets/images/prop9/img7.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan9.png",
+            "added": {
+                "month": "May",
+                "day": 25,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop10",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 460000,
+            "tenure": "Leasehold",
+            "description": "Spacious two-bedroom apartment with modern interiors, situated in a vibrant neighborhood with restaurants, shops, and excellent transport links.",
+            "location": "Riverside Drive, Birmingham B1",
+            "picture": [
+                "assets/images/prop10/img1.jpg",
+                "assets/images/prop10/img2.jpg",
+                "assets/images/prop10/img3.jpg",
+                "assets/images/prop10/img4.jpg",
+                "assets/images/prop10/img5.jpg",
+                "assets/images/prop10/img6.jpg",
+                "assets/images/prop10/img7.jpg",
+                "assets/images/prop10/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan10.jpg",
+            "added": {
+                "month": "April",
+                "day": 18,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop11",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Four-bedroom semi-detached family home with spacious living areas, a modern kitchen, and a private garden. Located in a family-friendly neighborhood with good schools.",
+            "location": "Westminster Bridge, London SW1A",
+            "picture": [
+                "assets/images/prop11/img1.jpg",
+                "assets/images/prop11/img2.jpg",
+                "assets/images/prop11/img3.jpg",
+                "assets/images/prop11/img4.jpg",
+                "assets/images/prop11/img5.jpg",
+                "assets/images/prop11/img6.jpg",
+                "assets/images/prop11/img7.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan11.jpg",
+            "added": {
+                "month": "March",
+                "day": 9,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop12",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": 570000,
+            "tenure": "Leasehold",
+            "description": "Modern three-bedroom apartment with a balcony offering panoramic views of the city. Features include a contemporary kitchen, en-suite bathrooms, and allocated parking.",
+            "location": "Holyrood Road, Edinburgh EH99",
+            "picture": [
+                "assets/images/prop12/img1.jpg",
+                "assets/images/prop12/img2.jpg",
+                "assets/images/prop12/img3.jpg",
+                "assets/images/prop12/img4.jpg",
+                "assets/images/prop12/img5.jpg",
+                "assets/images/prop12/img6.jpg",
+                "assets/images/prop12/img7.jpg",
+                "assets/images/prop12/img8.jpg"
+            ],
+            "url": "assets/images/floorplans/floorplan12.jpg",
+            "added": {
+                "month": "February",
+                "day": 22,
+                "year": 2022
+            }
+        }
+    ]
+}
